@@ -234,7 +234,3 @@ function prevImage() {
     document.getElementById("slider").src = images[index];
 }
 ```
-
----
-
-Each assignment is structured for easy GitHub upload with separate files and documentation. Let me know if you need changes!
